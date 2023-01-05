@@ -181,9 +181,10 @@ footer{
     padding: 10px;
 }
 
-.footer_list-item {
+footer ul {
     list-style: none;
 }
+
 .footer_list-link {
     margin-right: 20px;
     
